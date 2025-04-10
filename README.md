@@ -22,3 +22,12 @@ This project uses EEG data to classify human emotions using a neural network bui
 ```bash
 git clone https://github.com/Hacxmr/eeg-brain-wave.git
 cd eeg-brain-wave
+
+## 🚀 Model Performance
+
+| Model                          | Accuracy   |
+|--------------------------------|------------|
+| Random Forest                  | 98.83%     |
+| Support Vector Machine (SVM)   | 95.78%     |
+| Neural Network                 | 98.59%     |
+
